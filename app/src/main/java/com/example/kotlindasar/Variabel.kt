@@ -1,6 +1,6 @@
 package com.example.kotlindasar
 
 fun main() {
-    var nama = "Salim"
+    var nama = "Mufti"
     print(nama)
 }
